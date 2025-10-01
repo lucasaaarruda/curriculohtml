@@ -37,10 +37,7 @@ A estrutura é feita com **HTML5**, estilização com **CSS3** (e possivelmente 
 
 ## 📈 Layout / Interface
 
-A aparência é minimalista, elegante e profissional, com uso de seções bem definidas: cabeçalho, sobre mim, habilidades, experiência, contato etc.  
-Você pode incluir uma imagem de exemplo:
-
-![Layout do Currículo](https://github.com/lucasaaarruda/curriculohtml/blob/main/img/layout_exemplo.png)
+A aparência é minimalista, elegante e profissional, com uso de seções bem definidas: cabeçalho, sobre mim, habilidades, experiência, contato etc.
 
 ## 🤝 Contribuições
 
